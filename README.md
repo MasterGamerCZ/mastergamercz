@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Minecraft minigame plugins.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **marekhrachovec3@gmail.com**
 
